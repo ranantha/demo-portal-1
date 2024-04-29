@@ -8,9 +8,10 @@
     "version": "1.0.0",
     "attributes": {
       "content": {
-        "title": "Demo Portal 1l",
+        "title": "Demo Portal 2",
         "privacy_policy": "This is an example privacy policy – you should replace this with your own policy.",
-        "terms_of_service": "This is an example terms of service – you should replace this with your own terms."
+        "terms_of_service": "This is an example terms of service – you should replace this with your own terms.",
+        "tagline": "Important data"
       },
       "globus": {
         "application": {
